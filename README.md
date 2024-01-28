@@ -1,6 +1,6 @@
 # Dicoding Belajar Machine Learning untuk Pemula
-
-## Hasil
+## Proyek Akhir : Klasifikasi Gambar
+### Hasil
 - Training Loss: 0.0023
 - Training Accuracy: 99.92%
 - Validation Loss: 0.0042
@@ -9,40 +9,40 @@
 ![image](https://github.com/AditiaW/Dicoding-Belajar-Machine-Learning-untuk-Pemula/assets/106371535/cd21e970-98d9-451e-8a67-41a299ef7437)
 ![image](https://github.com/AditiaW/Dicoding-Belajar-Machine-Learning-untuk-Pemula/assets/106371535/98e4e6fa-3e3a-453d-a4d0-95dbe7d6cf3a)
 
-## Kriteria Submission
-### Dataset
+### Kriteria Submission
+#### Dataset
 - Gunakan dataset [rockpaperscissors](https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip).
 - Bagi dataset menjadi train set dan validation set.
 - Ukuran validation set harus 40% dari total dataset.
   - Data training: 1314 sampel
   - Data validasi: 874 sampel
 
-### Augmentasi Gambar
+#### Augmentasi Gambar
 - Implementasikan augmentasi gambar.
 
-### Image Data Generator
+#### Image Data Generator
 - Gunakan Image Data Generator.
 
-### Model
+#### Model
 - Model harus menggunakan model sequential.
 
-### Pelatihan Model
+#### Pelatihan Model
 - Pelatihan model tidak boleh melebihi waktu 30 menit.
 
-### Lingkungan
+#### Lingkungan
 - Program dikerjakan pada Google Colaboratory.
 
-### Akurasi
+#### Akurasi
 - Akurasi dari model minimal 85%.
 
-### Prediksi Gambar
+#### Prediksi Gambar
 - Model harus dapat memprediksi gambar yang diunggah ke Colab, seperti gambar di bawah ini:
   ![image](https://github.com/AditiaW/Dicoding-Belajar-Machine-Learning-untuk-Pemula/assets/106371535/6f4639ce-7ca8-4afc-a89d-84252aa88ea3)
 
-### Data Diri
+#### Data Diri
 - Tambahkan data diri (sesuai profil Dicoding) pada submission/project yang dikirimkan.
 
-## Penilaian
+### Penilaian
 Submission Anda akan dinilai oleh reviewer dengan penilaian bintang berskala 1-5 berdasarkan dari parameter yang ada.
 
 Anda dapat menerapkan beberapa saran untuk mendapatkan nilai tinggi, berikut sarannya:
