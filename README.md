@@ -1,13 +1,26 @@
 # Dicoding Belajar Machine Learning untuk Pemula
 ## Proyek Akhir : Klasifikasi Gambar
-### Hasil
-- Training Loss: 0.0023
-- Training Accuracy: 99.92%
-- Validation Loss: 0.0042
-- Validation Accuracy: 99.77%
+Sepertinya Anda ingin merapikan tampilan teks dan link di markdown. Berikut adalah tampilan yang lebih terstruktur:
+
+### Hasil V1
+- **Link:** [1-Proyek-Akhir-Klasifikasi-Gambar.ipynb](https://github.com/AditiaW/Dicoding-Belajar-Machine-Learning-untuk-Pemula/blob/main/1-Proyek-Akhir-Klasifikasi-Gambar.ipynb)
+- **Training Loss:** 0.0023
+- **Training Accuracy:** 99.92%
+- **Validation Loss:** 0.0042
+- **Validation Accuracy:** 99.77%
 
 ![image](https://github.com/AditiaW/Dicoding-Belajar-Machine-Learning-untuk-Pemula/assets/106371535/cd21e970-98d9-451e-8a67-41a299ef7437)
 ![image](https://github.com/AditiaW/Dicoding-Belajar-Machine-Learning-untuk-Pemula/assets/106371535/98e4e6fa-3e3a-453d-a4d0-95dbe7d6cf3a)
+
+### Hasil V2
+- **Link:** [2-Proyek-Akhir-Klasifikasi-Gambar.ipynb](https://github.com/AditiaW/Dicoding-Belajar-Machine-Learning-untuk-Pemula/blob/main/2-Proyek-Akhir-Klasifikasi-Gambar.ipynb)
+- **Training Loss:** 0.0014
+- **Training Accuracy:** 99.92%
+- **Validation Loss:** 0.0027
+- **Validation Accuracy:** 99.89%
+
+![image](https://github.com/AditiaW/Dicoding-Belajar-Machine-Learning-untuk-Pemula/assets/106371535/067d26bb-73e3-49dd-b185-cb98b3f018d7)
+![image](https://github.com/AditiaW/Dicoding-Belajar-Machine-Learning-untuk-Pemula/assets/106371535/c903f073-cd57-43ff-98ff-b518a9bbd6e8)
 
 ### Kriteria Submission
 #### Dataset
